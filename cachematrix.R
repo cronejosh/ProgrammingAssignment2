@@ -42,6 +42,7 @@ makeCacheMatrix <- function(x = matrix()) {
          getInverse = getInverse)
 }
 
+## ===========================================================================
 
 ## This function takes as its first arguement an object created by the 
 ## makeCacheMatrix function above. This function returns the inverse of
